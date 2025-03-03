@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 1
 <<<<<<< HEAD
 Feature B added by Developer 2
 =======
 Feature A added by Developer 1
 >>>>>>> LocalBranch
+=======
+1
+>>>>>>> parent of b058822 (Added feature A)
