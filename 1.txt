@@ -1,1 +1,2 @@
 1 Edit from LocalBranch
+Feature B added by Developer 2
